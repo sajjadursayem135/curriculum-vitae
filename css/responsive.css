@@ -1,0 +1,152 @@
+@media (max-width:575.98px){
+    p {
+        font-size: 12px;
+    }
+    #name_part .name_main {
+        width: 30%;
+        margin-top: 24px;
+    }
+    #name_part .name_main .name {
+        width: 70px;
+    }
+    #name_part .name_main .name h2 {
+        font-size: 20px;
+        font-weight: 700;
+        margin-left: 7px;
+    }
+    #name_part .name_main .name p {
+        padding-top: 1px;
+        padding-bottom: 3px;
+        margin-left: 7px;
+    }
+    #name_part .name_main .name p span {
+        font-size: 10px;
+        margin-right: 2px;
+    }
+    #name_part .name_main .img img {
+        width: 80px;
+        height: 100px;
+        margin-right: 45px;
+    }
+    #objective .objective_main{
+        margin-left: 7px;
+    }
+    #objective .objective_main h3 {
+        font-size: 17px;
+    }
+    #objective .objective_main p {
+        padding-top: 7px;
+        padding-bottom: 7px;
+        width: 300px;
+    }
+    #status .status_main{
+        margin-left: 7px;
+    }
+    #status .status_main h3 {
+        font-size: 17px;
+        margin-bottom: 5px;
+    }
+        #education .education_main{
+            margin-left: 7px;
+            margin-top: 15px;
+        }
+    #education .education_main h3 {
+        font-size: 17px;
+    }
+    #education .education_main .table{
+        margin-top: 15px;
+        width: 26%;
+}
+    #education .education_main .table .row .data {
+        padding: 3px;
+        font-size: 10px;
+        text-align: center;
+    }
+    #skills .skills_main {
+        margin-left: 7px;
+        margin-top: 20px;
+    }
+    #skills .skills_main h3 {
+        font-size: 17px;
+    }
+    #skills .skills_main p {
+        padding-top: 3px;
+        padding-bottom: 2px;
+    }
+    #skills .skills_main p span{
+        font-size: 12px;
+        margin-right: 4px;
+
+}
+#experience .experience_main{
+    margin-top: 20px;
+    margin-left: 7px;
+}
+#experience .experience_main h3 {
+	font-size: 17px;
+}
+#project .project_main{
+    margin-top: 20px;
+    margin-left: 7px;
+}
+#project .project_main h3 {
+	font-size: 17px;
+}
+#project .project_main a {
+	padding: 4px;
+	font-size: 13px;
+}
+#academic .academic_main{
+    margin-left: 7px;
+}
+#academic .academic_main h3 {
+	font-size: 17px;
+}
+#achievements .achievements_main h3 {
+	font-size: 17px;
+    margin-left: 7px;
+}
+#language .language_main {
+    margin-left: 7px;
+}
+#language .language_main h3 {
+	font-size: 17px;
+}
+#information .information_main{
+    margin-left: 7px;
+}
+#information .information_main h3 {
+	font-size: 17px;
+}
+#information .information_main .info_r .info_data {
+	font-size: 10px;
+	width: 65px;
+	padding: 3px;
+    text-align: left;
+}
+#information .information_main table {
+	margin: 0px;
+}
+#hobbie .hobbie_main{
+    margin-left: 7px;
+    margin-top: 20px;
+}
+#hobbie .hobbie_main h3 {
+	font-size: 17px;
+}
+#hobbie .hobbie_main p {
+	margin-top: 5px;
+	padding: 4px;
+}
+#games .games_main{
+    margin-left: 7px;
+    margin-top: 20px;
+}
+#games .games_main h3 {
+	font-size: 17px;
+}
+#games .games_main p {
+	margin-top: 5px;
+	padding: 4px;
+}
+}

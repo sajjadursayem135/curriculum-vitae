@@ -1,0 +1,324 @@
+/* =================================
+        ALL COMMON START END
+==================================== */
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+img{
+    vertical-align: middle;
+}
+a{
+    text-decoration: none;
+    display: inline-block;
+}
+ul,ol{
+    list-style: none;
+}
+.container{
+    width:1170px ;
+    margin: 0 auto;
+}
+p {
+        font-family: 'Lato', sans-serif;
+        font-size: 14px;
+        font-weight: 400;
+}
+/* font-family: 'Lato', sans-serif;
+font-family: 'Source Sans Pro', sans-serif; */
+/* =================================
+        ALL COMMON CSS END
+==================================== */
+/* =========================================
+              name css start 
+========================================== */
+#name_part .name_main{
+        width: 100%;
+        display: flex;
+        justify-content: space-between;
+        margin-top: 70px;
+}
+#name_part .name_main .name{
+        width: 400px;
+        
+}
+#name_part .name_main .name p{
+padding-top: 10px;
+padding-bottom: 10px;
+
+}
+#name_part .name_main .name p span{
+        font-family: 'Lato', sans-serif;
+        font-size: 16px;
+        font-weight: 500;
+        margin-right: 10px;
+}
+#name_part .name_main .name h2{
+        font-family: 'Lato', sans-serif;
+        font-size: 30px;
+        font-weight: 700;
+}
+
+#name_part .name_main .img{
+        width: 400px;
+        text-align: end;
+}
+#name_part .name_main .img img{
+        width: 150px;
+        height: 200px;
+}
+/* =========================================
+              name css end 
+========================================== */
+
+/* =========================================
+              objective css start 
+========================================== */
+#objective .objective_main{
+        margin-top: 30px;
+}
+#objective .objective_main h3{
+        font-family: 'Lato', sans-serif;
+        font-size: 20px;
+        font-weight: 700;
+        border-bottom: 1px solid #000000;
+}
+#objective .objective_main p{
+        padding-top: 10px;
+        padding-bottom: 10px;
+}
+/* =========================================
+              objective css end 
+========================================== */
+/* =========================================
+              status css start 
+========================================== */
+#status .status_main{
+        margin-top: 30px;
+}
+#status .status_main h3{
+        font-family: 'Lato', sans-serif;
+        font-size: 20px;
+        font-weight: 700;
+        border-bottom: 1px solid #000000;
+        margin-bottom: 10px;
+}
+
+/* =========================================
+              status css end 
+========================================== */
+/* =========================================
+        education css start 
+========================================== */
+#education .education_main{
+        margin-top: 30px;
+}
+#education .education_main h3{
+        font-family: 'Lato', sans-serif;
+        font-size: 20px;
+        font-weight: 700;
+        border-bottom: 1px solid #000000;
+}
+#education .education_main .table{
+        border: 1px solid #000000;
+        margin-top: 20px;
+        width: 100%;
+        text-align: center;
+}
+#education .education_main .table .row .data{
+        border: 1px solid #000000;
+        padding: 10px;
+}
+/* =========================================
+        education css end 
+========================================== */
+/* =========================================
+        skills css start 
+========================================== */
+#skills .skills_main{
+        margin-top: 30px;
+}
+#skills .skills_main h3{
+        font-family: 'Lato', sans-serif;
+        font-size: 20px;
+        font-weight: 700;
+        border-bottom: 1px solid #000000;
+}
+#skills .skills_main p{
+        padding-top: 10px;
+        padding-bottom: 10px;
+}
+#skills .skills_main p span{
+        font-family: 'Lato', sans-serif;
+        font-size: 16px;
+        font-weight: 500;
+        margin-right: 10px;
+
+}
+/* =========================================
+        skills css end 
+========================================== */
+
+/* =========================================
+        experience css start 
+========================================== */
+#experience .experience_main{
+        margin-top: 30px;
+}
+#experience .experience_main h3{
+        font-family: 'Lato', sans-serif;
+        font-size: 20px;
+        font-weight: 700;
+        border-bottom: 1px solid #000000;
+}
+#experience .experience_main p{
+        padding: 10px;
+}
+/* =========================================
+        experience css end 
+========================================== */
+/* =========================================
+        project css start 
+========================================== */
+#project .project_main{
+        margin-top: 30px;
+}
+#project .project_main h3{
+        font-family: 'Lato', sans-serif;
+        font-size: 20px;
+        font-weight: 700;
+        border-bottom: 1px solid #000000;
+}
+#project .project_main a{
+        color: red;
+        padding: 10px;
+        font-family: 'Lato', sans-serif;
+        font-size: 16px;
+        font-weight: 500;
+}
+/* =========================================
+        project css end 
+========================================== */
+
+/* =========================================
+        academic css start 
+========================================== */
+#academic .academic_main{
+        margin-top: 30px;
+}
+#academic .academic_main h3{
+        font-family: 'Lato', sans-serif;
+        font-size: 20px;
+        font-weight: 700;
+        border-bottom: 1px solid #000000;
+}
+/* =========================================
+        academic css end 
+========================================== */
+/* =========================================
+        achievements css start 
+========================================== */
+#achievements .achievements_main{
+        margin-top: 30px;
+}
+#achievements .achievements_main h3{
+        font-family: 'Lato', sans-serif;
+        font-size: 20px;
+        font-weight: 700;
+        border-bottom: 1px solid #000000;
+}
+/* =========================================
+        achievements css end 
+========================================== */
+/* =========================================
+        language css start 
+========================================== */
+#language .language_main{
+        margin-top: 30px;
+}
+#language .language_main h3{
+        font-family: 'Lato', sans-serif;
+        font-size: 20px;
+        font-weight: 700;
+        border-bottom: 1px solid #000000;
+}
+#language .language_main p{
+        margin-top: 5px;
+       padding: 7px;
+}
+
+/* =========================================
+        language css end 
+========================================== */
+/* =========================================
+        information css start 
+========================================== */
+#information .information_main{
+        margin-top: 30px;
+}
+#information .information_main h3{
+        font-family: 'Lato', sans-serif;
+        font-size: 20px;
+        font-weight: 700;
+        border-bottom: 1px solid #000000;
+        margin-bottom: 20px;
+}
+#information .information_main p{
+        margin-left: 20px;
+}
+#information .information_main table{
+        margin: 50px;
+}
+#information .information_main .info_r .info_data{
+        font-family: 'Lato', sans-serif;
+        font-size: 14px;
+        font-weight: 500;
+        width: 150px;
+        padding: 5px;
+       
+}
+/* =========================================
+        information css end 
+========================================== */
+
+/* =========================================
+        hobbie css start 
+========================================== */
+#hobbie .hobbie_main{
+        margin-top: 30px;
+}
+#hobbie .hobbie_main h3{
+        font-family: 'Lato', sans-serif;
+        font-size: 20px;
+        font-weight: 700;
+        border-bottom: 1px solid #000000;
+}
+#hobbie .hobbie_main p{
+        margin-top: 5px;
+       padding: 7px;
+}
+/* =========================================
+        hobbie css end 
+========================================== */
+
+/* =========================================
+        games css start 
+========================================== */
+#games .games_main{
+        margin-top: 30px;
+}
+#games .games_main h3{
+        font-family: 'Lato', sans-serif;
+        font-size: 20px;
+        font-weight: 700;
+        border-bottom: 1px solid #000000;
+}
+#games .games_main p{
+        margin-top: 5px;
+       padding: 7px;
+}
+/* =========================================
+        games css end 
+========================================== */
+/* name css end  */
